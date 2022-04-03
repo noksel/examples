@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "widgets/todo_list",
+	"widgets/my_form",
     "widgets/basic_form",
     "core/mime_types",
     "core/logging",
